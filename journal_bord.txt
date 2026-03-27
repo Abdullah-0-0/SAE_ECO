@@ -1,0 +1,33 @@
+Les Différent élement exterieur qui peuvent arrivé dans les journal d'actualité 
+p 0
+e 1
+s 2
+t 3
+e 4
+l 5 
+
+model: [pestel],"phrase",[action attendu];
+[0],"Le conseil régional annonce une réforme des aides agricoles favorisant surtout les grandes exploitations.";
+[0],"La mairie cherche un prestataire local pour l'entretien écologique des espaces verts communaux.";
+[0],"Un changement de majorité politique remet en question les subventions locales existantes.";
+[0],"La commune souhaite verdir son image et privilégier les acteurs agricoles de proximité.";
+[1],"Les marges chutent fortement à cause des intermédiaires et des prix imposés par les distributeurs.";
+[1],"Une forte hausse du coût des intrants met en danger la rentabilité de la monoculture actuelle.";
+[1],"La dépendance à une seule récolte provoque une instabilité financière inquiétante.";
+[1],"Les clients locaux montrent un intérêt croissant pour l'achat direct auprès des producteurs.";
+[2],"Des écoles locales cherchent des lieux pour organiser des sorties pédagogiques autour de la nature.";
+[2],"Les habitants du secteur ignorent majoritairement l'existence de votre jardin.";
+[2],"Une demande croissante pour des activités bien-être et nature émerge dans la région.";
+[2],"Les jeunes du territoire sont très présents sur les réseaux sociaux mais peu sur les marchés.";
+[3],"Le manque de main-d'œuvre saisonnière compromet la récolte cette année.";
+[3],"Les technologies agricoles modernes deviennent plus accessibles aux petites structures.";
+[3],"Les semenciers annoncent l'arrêt de certaines variétés anciennes.";
+[3],"Une maladie récurrente pousse à sécuriser génétiquement les cultures.";
+[4],"Des vents violents répétés assèchent les cultures et fragilisent les plants.";
+[4],"Les pluies intenses entraînent une érosion rapide du sol.";
+[4],"Les rendements baissent à cause d'un sol devenu trop compact et pauvre en vie biologique.";
+[4],"L'absence de haies rend les cultures très vulnérables aux conditions climatiques extrêmes.";
+[5],"Le gouvernement annonce l'interdiction prochaine de plusieurs produits phytosanitaires courants.";
+[5],"Un contrôle révèle que l'accueil du public n'est pas conforme aux normes de sécurité.";
+[5],"De nouvelles réglementations imposent une traçabilité stricte des pratiques agricoles.";
+[5],"Un incident mineur avec un visiteur soulève des risques juridiques importants.";

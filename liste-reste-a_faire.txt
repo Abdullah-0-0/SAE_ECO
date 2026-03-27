@@ -1,0 +1,20 @@
+Les action a mettre dans la liste et leur numero dans les action attentu dans le fichier journal de bord
+(En ajouter plus )
+Creer le menu de debut avec un boutton qui ouvre les regles par exemple bien penser a parler du lien avec le pestel et de forcer le joueur a reflechir si il faut prioriser son jardin ou les evenements exterieur bien expliquer commment ca marche 
+Creer le menu de fin peut etre des phrase differente selon les jauge afficher les jauge comment je pensais avec un label d'une taille qui vari en fonction de la jauge pas tres compliqué a faire penser a un boutton rejouer 
+a la fin donner peut etre la qualité moyenne des plantes et le nombre et si elle sont varié 
+
+#argument qu'on pourra dire au prof c'est d'insiter le jouerur a rejouer pour qu'il arrive a trouver et comprendre l'equilibre entre l'entreprise et les evenements exterieur 
+#Et plus dans le jeu pas donner ce qui augment ou baisse la qualité (genre si on arrose alors qu'elle sont deja grande) ce qui force et donne au joueur envie de rejoiuer et d'avoir les meilleur score a la fin 
+
+regler pour pas que la fin se lance quand c'est le dernier evenement mais bien apres 
+
+
+option :
+rajouter de nouvelle plantes
+rentre plus jolie les boutton des image pourquoi pas de la deco (vraiment a la fin)
+
+enlever tout les commentaire inutil et mettre au propre le scripte enlever les chose inutil et repetitif simplifier des parti 
+
+
+Pas d'IA SVP 🙏🙏🙏

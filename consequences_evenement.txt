@@ -1,0 +1,18 @@
+model
+[0],"+","Le gouvernement des subventions agricoles permettent de planter une culture gratuitement." ;
+[0],"-","Instabilité politique : Vous perdez une action ";
+
+[1],"+","Reprise économique : La prochaine plantes compte double ;
+[1],"-","Mauvaise gestion économique, il y a une inflation, il devient impossible de planter de nouvelles plantes.";
+
+[2],"+","Gestion sociale positive : les voisins viennent donner un coup de main : vos plantes fragiles sont mieux soignées.";
+[2],"-","Gestion sociale défaillante : une manifestation a lieu -> certaines plantes sont détruites";
+
+[3],"+","Gestion technologique performante : les outils améliorent la protection des cultures";
+[3],"-","Vous ne protégez pas vos plantes : des insectes arrivent sur vos plantes";
+
+[4],"+","Gestion écologique responsable : l’environnement favorise la croissance des plantes";
+[4],"-","Gestion écologique négligée : les conditions naturelles se dégradent";
+
+[5],"+","Confiance de la justice vous gagner une action au prochain tour";
+[5],"-","Proces : Vous ne respecter pas les normes et vous perdez une plantes recolté";

@@ -1,0 +1,12 @@
+[0],"🏛️ Entrer en dans un syndicat 🏛️";
+[0],"🤝 Négocier avec la mairie 🤝";
+[1],"💰 Passer à la vente directe 💰 "; 
+[1],"🧺 Diversifier les cultures 🧺";
+[2],"👋 Accueillir du public 👋"; 
+[2],"📱 Communiquer sur les reseaux 📱";
+[3],"🚀 Acheter du matériel moderne 🚀";
+[3],"🧪 Innover en laboratoire 🧪";
+[4],"🐝Installer des ruches et des nichoirs 🐝";
+[4],"💧Récupérer l'eau de pluie 💧"
+[5],"⚖️ Obtenir des labels (Bio)" ⚖️;
+[5],"✅ Verifier les normes la sécurité ✅";
